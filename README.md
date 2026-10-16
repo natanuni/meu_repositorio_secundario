@@ -1,1 +1,2 @@
-# meu_repositorio_secundario
+criado para fazer uma revisão do que estou aprendendo
+e também para fazer variações das atividades
